@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 ### Redmine .NET API
 A modern .NET client for the Redmine REST API .  
 
-🐙 **Repo:** `zapadi/redmine-net-api` · 📦 **NuGet:** `redmine-api`   
-[![NuGet](https://img.shields.io/nuget/v/Redmine.Net.Api.svg)](https://www.nuget.org/packages/redmine-api)
-[![Downloads](https://img.shields.io/nuget/dt/Redmine.Net.Api.svg)](https://www.nuget.org/packages/redmine-api)
+🐙 **`zapadi/redmine-api`** · 📦 **`redmine-api`**   
+[![NuGet](https://img.shields.io/nuget/v/redmine-api.svg)](https://www.nuget.org/packages/redmine-api)
+[![Downloads](https://img.shields.io/nuget/dt/redmine-api.svg)](https://www.nuget.org/packages/redmine-api)
 [![Stars](https://img.shields.io/github/stars/zapadi/redmine-net-api.svg?style=social)](https://github.com/zapadi/redmine-api)
 
 ---
@@ -50,7 +50,7 @@ A modern .NET client for the Redmine REST API .
 ### VIES .NET API
 EU VAT validation for .NET API.
 
-🐙 **Repo:** `zapadi/vies-dotnet` · 📦 **NuGet:** `vies-dotnet-api`   
+🐙 **`zapadi/vies-dotnet`** · 📦 **`vies-dotnet-api`**   
 [![NuGet](https://img.shields.io/nuget/v/vies-dotnet-api.svg)](https://www.nuget.org/packages/vies-dotnet-api)
 [![Downloads](https://img.shields.io/nuget/dt/vies-dotnet-api.svg)](https://www.nuget.org/packages/vies-dotnet-api)
 [![Stars](https://img.shields.io/github/stars/zapadi/vies-dotnet.svg?style=social)](https://github.com/zapadi/vies-dotnet)
