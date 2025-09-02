@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 - 🪟 Build **Windows Forms utilities** for device integration: serial ports (System.IO.Ports), protocol parsing, diagnostics
 - Focus on **performance**, **scalability**, and **observability**
 - 🚀 Automate delivery with **CI/CD**, tests, and observability
-- 📚 Maintain well-documented releases and stable public contracts
 
 ## 🧰 Toolbox
 **Core:**  `C#` · `.NET` · `ASP.NET Core` · `Windows Forms` · `Dapper` · `NHibernate` · `EF` · `PostgreSQL` · `SQL Server` · `xUnit` · `GraphQL` · `Polly` · `Serilog` · `OpenTelemetry` · `Docker` · `GitHub Actions` · `Redis`
